@@ -2,7 +2,7 @@
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently Machine Learning
+- 🌱 &nbsp;I’m currently Learning Machine Learning
 - 💬 &nbsp;Ask me about anything related to Javascript/php/Python/nodejs/Express/Flask
 - 📫 &nbsp;How to reach me: [@rivalhaikalhafizh](https://www.linkedin.com/in/rival-haikal-hafizh-b4359a174/) 
 - 👨‍💻 &nbsp;Read more about my projects at [profematika](https://www.profematika.com/)
