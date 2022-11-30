@@ -14,18 +14,16 @@
 <!--Skills Section-->
 ## My Tech Stack
 <p align="left">
-	<h4> Programming Lanauges</h4><p>
+	<h4> Programming Languages</h4><p>
 	<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/c.svg" alt="C" width="40" height="40" />&nbsp;
 	<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/cpp.svg" alt="C++" width="40" height="40" />&nbsp;
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/python.svg" alt="python" width="40" height="40" />&nbsp;
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/java.svg" alt="java" width="40" height="40" />&nbsp;
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/javascript.svg" alt="javascript" width="40" height="40" />&nbsp;
 	<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/mysql.svg" alt="SQL" width="40" height="40" />&nbsp;
-	<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/git.svg" alt="Git" width="40" height="40" />&nbsp;
-	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/uml.svg" alt="UML" width="40" height="40" />&nbsp;
 	<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/html.svg" alt="HTML" width="40" height="40" />&nbsp;
 	<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/css.svg" alt="CSS" width="40" height="40" />&nbsp;
-	<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/bash1.svg" alt="Bash" width="40" height="40" />&nbsp;</p>
+	<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/php.svg" alt="php" width="40" height="40" />&nbsp;</p>
 	<h4> Frameworks</h4><p>
 	<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/numpy.svg" alt="Numpy" width="40" height="40" />&nbsp;
 	<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/pandas.svg" alt="Pandas" width="40" height="40" />&nbsp;	
@@ -37,15 +35,17 @@
 	<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/django.svg" alt="Django" width="40" height="40" />&nbsp;
 	<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/flask.svg" alt="Flask" width="40" height="40" />&nbsp;
 	<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/matplotlib.svg" alt="Matplotlib" width="60" height="40" />&nbsp;</p>
+	<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/codeigniter.svg" alt="codeigniter" width="60" height="40" />&nbsp;</p>
+	<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/laravel.svg" alt="laravel" width="60" height="40" />&nbsp;</p>
+	<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/bootstrap.svg" alt="bootstrap" width="60" height="40" />&nbsp;</p>	
 	<h4>Software Packages</h4><p>
-	<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/gitlab.svg" alt="GitLab" width="40" height="40" />&nbsp;
 	<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/jupyter.png" alt="Jupyter" width="40" height="40" />&nbsp;
-	<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/zeppelin.png" alt="Zeppelin" width="40" height="40" />&nbsp;
-	<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/sagemaker.png" alt="Sagemaker" width="40" height="40" />&nbsp;
 	<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/netbeans.svg" alt="Netbeans" width="50" height="50" />&nbsp;
-	<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/eclipse.svg" alt="eclipse" width="40" height="40" />&nbsp;
 	<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/tableau.svg" alt="Tableau" width="40" height="40" />&nbsp;
 	<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/office.svg" alt="Office" width="40" height="40" />&nbsp;</p>
+		<h4>Others</h4><p>
+	<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/git.svg" alt="Git" width="40" height="40" />&nbsp;
+	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/uml.svg" alt="UML" width="40" height="40" />&nbsp;
 </p><br>
 <!--Connect Section-->
 <hr>
@@ -59,7 +59,7 @@
 	<a href="#">
 		<img alt="Rival Haikal - Google Scholar" width="42px" src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/google_scholar.svg"/>
 	</a>
-	<a href="mailto:abhinavbohra01@gmail.com">
+	<a href="mailto:rivalhh@gmail.com">
 		&nbsp;&nbsp;<img alt="Rival Haikal - Mail" width="42px" src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/email.svg"/>
 	</a>
 	<a href="https://www.instagram.com/rivalhaikalh/">
@@ -68,7 +68,7 @@
 	<a href="#">
 		&nbsp;&nbsp;<img alt="Rival Haikal - Facebook" width="42px" src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/fb.svg"/>
 	</a>
-<img align="right" src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-peace.png" height="140" title="Peace" />
+
 </p><br><br>
 
 <!-- Profile Views -->
