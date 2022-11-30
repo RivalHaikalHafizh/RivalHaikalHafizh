@@ -46,7 +46,7 @@
 	<h4>Others</h4><p>
 	<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/git.svg" alt="Git" width="40" height="40" />&nbsp;
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/uml.svg" alt="UML" width="40" height="40" />&nbsp;
-	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/colaboratory.svg" alt="colaboratory.svg" width="40" height="40" />&nbsp;
+	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/colaboratory.svg" alt="colaboratory" width="40" height="40" />&nbsp;
 </p><br>
 <!--Connect Section-->
 <hr>
