@@ -4,7 +4,7 @@
 <!--Intro Section-->
 <img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/intro.gif" width="30%" align="right">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/cs.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Final-year Computer Science & Engineering student at IIT Kharagpur.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/cs.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Hello World.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/ai.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Interested in Artificial Intelligence & Software Development.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/research.jpg" alt="C" width="20" height="20" />&nbsp;&nbsp;Research Interests: Machine Learning, Deep Learning, NLP, Software Engineering <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/dj.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;When not coding, I like to make EDM :metal:<br>
@@ -31,7 +31,7 @@
 	<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/pyspark.png" alt="PySpark" width="110" height="50" />&nbsp;
 	<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/tensorflow-tf.svg" alt="TensorFlow" width="40" height="40" />&nbsp;
 	<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/keras.svg" alt="Keras" width="40" height="40" />&nbsp;
-	<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/Scikit-learn.svg" alt="Scikit Learn" width="60" height="40" />&nbsp;
+	<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/Scikit_learn.svg" alt="Scikit Learn" width="60" height="40" />&nbsp;
 	<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/flask.svg" alt="Flask" width="40" height="40" />&nbsp;
 	<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/matplotlib.svg" alt="Matplotlib" width="60" height="40" />&nbsp;
 	<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/codeigniter.svg" alt="codeigniter" width="60" height="40" />&nbsp;
@@ -46,7 +46,7 @@
 	<h4>Others</h4><p>
 	<img src="https://github.com/RivalHaikalHafizh/RivalHaikalHafizh/blob/main/icons/git.svg" alt="Git" width="40" height="40" />&nbsp;
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/uml.svg" alt="UML" width="40" height="40" />&nbsp;
-	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/colaboratory.svg" alt="colaboratory" width="40" height="40" />&nbsp;
+	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/colaboratory.svg" alt="colaboratory.svg" width="40" height="40" />&nbsp;
 </p><br>
 <!--Connect Section-->
 <hr>
